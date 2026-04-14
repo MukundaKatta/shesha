@@ -1,56 +1,33 @@
-# 🔱 Shesha — Scalable ETL Framework
+# shesha — Scalable ETL Framework. Scalable ETL framework
 
-> **Hindu Mythology**: Infinite Serpent | Scalable ETL framework
+Scalable ETL Framework. Scalable ETL framework. shesha gives you a focused, inspectable implementation of that idea.
 
-[![GitHub Pages](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://MukundaKatta.github.io/shesha/)
-[![GitHub](https://img.shields.io/github/license/MukundaKatta/shesha?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/MukundaKatta/shesha?style=flat-square)](https://github.com/MukundaKatta/shesha/stargazers)
+## Why shesha
 
-## 🚀 Overview
+shesha exists to make this workflow practical. Scalable etl framework. scalable etl framework. It favours a small, inspectable surface over sprawling configuration.
 
-Scalable ETL framework
+## How It Works
 
-**Tech Stack:** Python, PySpark
+The code is organised as a focused, single-purpose module with a clear entry point and minimal ceremony.
 
-## 📦 Quick Start
+## Getting Started
 
 ```bash
-git clone https://github.com/MukundaKatta/shesha.git
-cd shesha
-# Follow setup instructions below
+# Serve the static site
+python -m http.server 8000
+# then open http://localhost:8000
 ```
 
-## 🏗️ Project Structure
+## Usage
+
+See the source files and entry points for concrete usage patterns.
+
+## Project Structure
 
 ```
 shesha/
-├── README.md
-├── LICENSE
 ├── CLAUDE.md
-├── .gitignore
-├── src/
-│   ├── main.py
-│   ├── config.py
-│   └── utils.py
-├── tests/
-│   └── test_main.py
-├── docs/
-│   └── architecture.md
-├── examples/
-│   └── basic_usage.py
-└── .github/
-    └── workflows/
-        └── static.yml
+├── LICENSE
+├── README.md
+├── index.html
 ```
-
-## 🌐 Live Demo
-
-Visit the landing page: **https://MukundaKatta.github.io/shesha/**
-
-## 📄 License
-
-MIT License — © 2026 Officethree Technologies
-
-## 🔱 Part of the Mythological Portfolio
-
-This is project **#shesha** in the [100-project Mythological Portfolio](https://github.com/MukundaKatta) by Officethree Technologies.
