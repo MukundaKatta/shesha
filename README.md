@@ -1,6 +1,6 @@
 # shesha — Scalable ETL Framework. Scalable ETL framework
 
-Scalable ETL Framework. Scalable ETL framework. shesha gives you a focused, inspectable implementation of that idea.
+Scalable ETL Framework. Scalable ETL framework.
 
 ## Why shesha
 
